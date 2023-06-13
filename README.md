@@ -6,5 +6,7 @@
 * 🤖  AI
 * :dependabot:  Codepen
 * ♦️  Ruby
+* 🐚  Powershell 
+* 📜  javascript/html/css 
 #
 ### Profile picture made with [Picsart](https://picsart.com/ru)

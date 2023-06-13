@@ -6,3 +6,5 @@
 * 🤖  AI
 * :dependabot:  Codepen
 * ♦️  Ruby
+#
+### Profile picture made with [Picsart](https://picsart.com/ru)

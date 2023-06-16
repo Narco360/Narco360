@@ -4,7 +4,7 @@
 
 # 📈 What im doing right now
 * 🤖  AI
-* :dependabot:  Codepen
+* 🚪 Fortigate (fortinet)
 * ♦️  Ruby
 * 🐚  Powershell 
 * 📜  javascript/html/css 

@@ -4,9 +4,6 @@
 
 # 📈 What im doing right now
 * 🤖  AI
-* 🚪 Fortigate (fortinet)
-* ♦️  Ruby
-* 🐚  Powershell 
-* 📜  javascript/html/css 
+* 🚪 Fortigate (fortinet) 
 #
 ### Profile picture made with [Picsart](https://picsart.com/ru)

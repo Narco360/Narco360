@@ -7,5 +7,6 @@
 * 🚪 Fortigate (fortinet)
 # 📁 Repositery 
 * [3cxRemoval](https://github.com/Narco360/3CXremove)
+* [Bitlocker_AD](https://github.com/Narco360/Bitlocker_AD)
 #
 ### Profile picture made with [Picsart](https://picsart.com/ru)

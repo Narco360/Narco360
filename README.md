@@ -6,6 +6,6 @@
 * 🤖  AI
 * 🚪 Fortigate (fortinet)
 # 📁 Repositery 
-* [3cxRemoval](Narco360/3cxRemove)
+* [3cxRemoval](https://github.com/Narco360/3CXremove)
 #
 ### Profile picture made with [Picsart](https://picsart.com/ru)

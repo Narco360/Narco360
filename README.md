@@ -5,9 +5,11 @@
 # 📈 What im working on right now
 * 🤖  AI
 * 🚪 Fortigate (fortinet)
+* [Fortinet Guide](https://github.com/Narco360/Fortinet)
 # 📁 Repositery 
 * [3cxRemoval](https://github.com/Narco360/3CXremove)
 * [Bitlocker_AD](https://github.com/Narco360/Bitlocker_AD)
 * [File Organisation](https://github.com/Narco360/fileOrganisation)
+* [Fortinet Guide](https://github.com/Narco360/Fortinet)
 #
 ### Profile picture made with [Picsart](https://picsart.com/ru)

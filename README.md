@@ -11,5 +11,6 @@
 * [Bitlocker_AD](https://github.com/Narco360/Bitlocker_AD)
 * [File Organisation](https://github.com/Narco360/fileOrganisation)
 * [Fortinet Guide](https://github.com/Narco360/Fortinet)
+* [Pc rename from AD](https://github.com/Narco360/PC_rename)
 #
 ### Profile picture made with [Picsart](https://picsart.com/ru)

@@ -5,7 +5,7 @@
 # 📈 What im working on right now
 * 🤖  AI
 * :dependabot: CodePen
-* <img src="https://se.ewi.tudelft.nl/desosa2019/chapters/powershell/images/powershell/PowerShellLogo.png" width="20" > Powershell
+* <img src="https://se.ewi.tudelft.nl/desosa2019/chapters/powershell/images/powershell/PowerShellLogo.png" width="20" > Shell
 * [PC rename from AD](https://github.com/Narco360/PC_rename)
 # 📁 Repositery 
 * [3cxRemoval](https://github.com/Narco360/3CXremove)

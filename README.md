@@ -1,7 +1,9 @@
 <div align="center">
   <!-- Your awesome centered GIF -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2MyMjhmZjVlNTY2ZDUwMDFmZTFjYzQxMDA4Y2YyNWFjZWZhNGI2MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/BxcBAB2UwGCCPRrlIi/giphy.gif" width="100%" max-width="700px" alt="Animated Banner" />
-  <p><sub>Banner credits: <a href="https://codepen.io/ara_node" target="_blank">Ara_node</a></sub></p>
+  <img src="https://github.com/user-attachments/assets/3351ab7e-4538-4add-b72d-7308630cab3e" width="100%" max-width="700px" alt="NetCO Animation" />
+</div>
+
+
 
   # 🚀 Welcome to my GitHub Profile!
 </div>

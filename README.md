@@ -36,13 +36,7 @@ Here are the tech stacks and tools I use to tame servers and networks:
 
 ### 📁 Featured Repositories
 
-Here are my essential scripts and documentations:
-
-*   🤖 **[PC Rename from AD](https://github.com/Narco360/PC_rename)** – Automating computer renaming via Active Directory.
-*   🔒 **[Bitlocker AD](https://github.com/Narco360/Bitlocker_AD)** – Managing and integrating BitLocker keys into Active Directory.
-*   🛡️ **[Fortinet Guide](https://github.com/Narco360/Fortinet)** – Configuration guide and best practices for Fortinet environments.
-*   🗑️ **[3CX Removal](https://github.com/Narco360/3CXremove)** – Clean uninstallation and cleanup script for 3CX.
-*   🗂️ **[File Organisation](https://github.com/Narco360/fileOrganisation)** – Automatic file sorting and organization script.
+I am currently working on a HUGE project ill tell you more when its ready haha
 
 ---
 

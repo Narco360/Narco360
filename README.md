@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Appel direct du fichier local avec la bonne syntaxe CSS -->
-  <img src="netco_animation.svg" style="width: 100%; max-width: 700px;" alt="NetCO Animation" />
+  <img src="svg.svg" style="width: 100%; max-width: 700px;" alt="NetCO Animation" />
 </div>
 
 

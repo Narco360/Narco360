@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300">
+  <rect width="100%" height="100%" fill="#0a122e" />
+  
+  <defs>
+    <style>
+      /* Police système monospace pour la compatibilité */
+      .text-glow {
+        font-family: 'Courier New', monospace;
+        font-weight: bold;
+        font-size: 64px;
+        fill: #00f2fe;
+        filter: drop-shadow(0 0 10px rgba(0, 242, 254, 0.7));
+        animation: text-pulse 3s infinite alternate;
+      }
+      
+      .circuit-line {
+        stroke: #00e676;
+        stroke-width: 2;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        fill: none;
+        filter: drop-shadow(0 0 5px rgba(0, 230, 118, 0.5));
+        stroke-dasharray: 500;
+        stroke-dashoffset: 500;
+        animation: draw-line 2.5s forwards ease-in-out, line-flow 6s infinite alternate 2.5s;
+      }
+      
+      .node-point {
+        fill: #fff;
+        filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.8));
+        animation: node-flash 1.5s infinite alternate;
+      }
+      
+      .data-impulse {
+        fill: #fff;
+        animation: data-travel 4s infinite linear;
+      }
+
+      /* Animations */
+      @keyframes text-pulse {
+        0% { fill: #00f2fe; filter: drop-shadow(0 0 10px rgba(0, 242, 254, 0.7)); }
+        50% { fill: #fff; filter: drop-shadow(0 0 15px rgba(255, 255, 255, 0.9)); }
+        100% { fill: #00f2fe; filter: drop-shadow(0 0 10px rgba(0, 242, 254, 0.7)); }
+      }
+      
+      @keyframes draw-line {
+        to { stroke-dashoffset: 0; }
+      }
+      
+      @keyframes line-flow {
+        0% { stroke: #00e676; }
+        50% { stroke: #4facfe; }
+        100% { stroke: #00e676; }
+      }
+      
+      @keyframes node-flash {
+        0% { opacity: 0.3; }
+        100% { opacity: 1; }
+      }
+      
+      @keyframes data-travel {
+        0% { opacity: 0; }
+        10% { opacity: 1; }
+        90% { opacity: 1; }
+        100% { opacity: 0; }
+      }
+      
+    </style>
+  </defs>
+  
+  <!-- Lignes de Circuit -->
+  <path class="circuit-line" d="M100,100 L250,100 L300,150 L350,150 L400,200 L550,200" />
+  <path class="circuit-line" d="M200,50 L250,50 L300,100 L350,100 L400,50 L450,50" />
+  <path class="circuit-line" d="M200,250 L250,250 L300,200 L350,200 L400,250 L450,250" />
+  <path class="circuit-line" d="M500,100 L650,100 L700,150" />
+  
+  <!-- Points de Données (Impulsions) avec animation cx intégrée car les délais CSS ne fonctionnent pas sur les attributs spécifiques -->
+  <circle class="data-impulse" r="4" cy="100">
+    <animate attributeName="cx" values="100;700" dur="4s" repeatCount="indefinite" />
+  </circle>
+  <circle class="data-impulse" r="4" cy="150">
+    <animate attributeName="cx" values="300;700" dur="4s" begin="1s" repeatCount="indefinite" />
+  </circle>
+  <circle class="data-impulse" r="4" cy="200">
+    <animate attributeName="cx" values="400;700" dur="4s" begin="2s" repeatCount="indefinite" />
+  </circle>
+  
+  <!-- Texte central -->
+  <text x="50%" y="50%" class="text-glow" dominant-baseline="middle" text-anchor="middle">NetCO</text>
+  
+  <!-- Nœuds terminaux -->
+  <circle class="node-point" cx="100" cy="100" r="5" />
+  <circle class="node-point" cx="200" cy="50" r="5" />
+  <circle class="node-point" cx="200" cy="250" r="5" />
+  <circle class="node-point" cx="700" cy="150" r="5" />
+  <circle class="node-point" cx="650" cy="100" r="5" />
+  <circle class="node-point" cx="550" cy="200" r="5" />
+
+</svg>
+```http://googleusercontent.com/image_generation_content/274
+
